@@ -8,7 +8,7 @@ The dataset used for this project is the **Disaster Tweets** Dataset. It consist
 - **keyword**: Keyword extracted from the tweet
 - **location**: Location mentioned in the tweet
 - **text**: The full text of the tweet
-- **target**: Label indicating whether the tweet is about a disaster (1) or not (0)
+- **target**: Label indicating whether the tweet is about a disaster **(1) or not (0)**
 
 ## Code Structure
 The code is organized into the following Python files:
