@@ -4,11 +4,11 @@ This repository contains code for analyzing disaster-related tweets using Natura
 ## Dataset
 The dataset used for this project is the **Disaster Tweets** Dataset. It consists of a **CSV file** containing the following columns:
 
-- **id**: Unique identifier for the tweet
+- **id**: Unique identifier for the tweet.
 - **keyword**: Keyword extracted from the tweet.
 - **location**: Location mentioned in the tweet.
-- **text**: The full text of the tweet
-- **target**: Label indicating whether the tweet is about a disaster **(1) or not (0)**
+- **text**: The full text of the tweet.
+- **target**: Label indicating whether the tweet is about a disaster **(1) or not (0)**.
 
 ## Code Structure
 The code is organized into the following Python files:
