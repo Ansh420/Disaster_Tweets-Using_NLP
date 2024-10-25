@@ -2,11 +2,11 @@
 This repository contains code for analyzing disaster-related tweets using Natural Language Processing **(NLP)** techniques. The goal is to classify tweets as containing information about a **disaster or not**.
 
 ## Dataset
-The dataset used for this project is the **Disaster Tweets** Dataset. It consists of a CSV file containing the following columns:
+The dataset used for this project is the **Disaster Tweets** Dataset. It consists of a **CSV file** containing the following columns:
 
 - **id**: Unique identifier for the tweet
-- **keyword**: Keyword extracted from the tweet
-- **location**: Location mentioned in the tweet
+- **keyword**: Keyword extracted from the tweet.
+- **location**: Location mentioned in the tweet.
 - **text**: The full text of the tweet
 - **target**: Label indicating whether the tweet is about a disaster **(1) or not (0)**
 
