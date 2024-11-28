@@ -21,9 +21,9 @@ The code is organized into the following Python files:
 ## Requirements
 To run the code, you'll need the following Python libraries:
 
-- pandas.
-- numpy.
-- nltk.
-- scikit-learn.
-- matplotlib.
-- seaborn.
+- pandas
+- numpy
+- nltk
+- scikit-learn
+- matplotlib
+- seaborn
